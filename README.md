@@ -1,6 +1,6 @@
 # Alex Doherty
 
-Steadicam and broadcast camera operator for 25 years, mostly live sport. For the last 18 months I've also built and run software products without writing the code by hand. I direct AI agents and check their work.
+25 years in broadcasting. I started in technical support and transmission at ITV and worked my way up to camera and Steadicam, mostly live sport. For the last 18 months I've also built and run software products without writing the code by hand. I direct AI agents and check their work.
 
 ## What I've built
 - **Datestone** (datestone.io): landlord compliance for England. Around 34 legal duties, licensing rules for 296 councils, a free check and reminders.
